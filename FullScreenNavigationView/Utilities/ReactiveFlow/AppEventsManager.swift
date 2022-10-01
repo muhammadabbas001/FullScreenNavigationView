@@ -8,7 +8,6 @@
 import SwiftUI
 import Combine
 
-/// This class will handle some the SKILLR apps core events
 final public class AppEventsManager {
     static let shared = AppEventsManager()
     /// Present a view over the tab bar
